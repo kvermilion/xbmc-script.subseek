@@ -1,0 +1,32 @@
+SubSeek is an innovative seeking interface for xbmc. It allows the user to search subtitle information for a specific part of a video, and then seek to it.
+
+_____________________
+Installation
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Download the latest tag from github, naming the folder "script.subseek," and place it in the folder for your platform as described by this section of the xbmc wiki:
+http://wiki.xbmc.org/index.php?title=HOW-TO_install_and_switch_between_skins_in_XBMC#Manually_installing_skins
+Select "script.subseek" as your skin's OSD subtitle script.
+Make sure you have the script "XBMC Subtitles" (script.xbmc.subtitles) installedi, it is available through the official repository, under the "Subtitles" section.
+
+_____________________
+Usage
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+When watching a video, call your skin's OSD, and call the subtitle script. If you do not have a compatible subtitle selected, the XBMC Subtitles script will be called, and you must select a subtitle to use, (Make sure to select a .srt file) and then call the script again. Click the "Enter Search Terms" button, and enter a phrase or word from the video. A list of matches will be shown. Click the correct one.
+
+_____________________
+Discussion
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+_____________________
+Bug Reporting
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Please submit bugs through github at the URL below:
+https://github.com/kvermilion/xbmc-script.subseek/issues
+
+_____________________
+Contributions
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Translations are welcome. If you wish to maintain a localization of subseek, please contact me through github:
+https://github.com/kvermilion
+

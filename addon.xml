@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.subseek"
+       name="SubSeek"
+       version="0.1.0"
+       provider-name="CSB">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.subtitles"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">SubSeek is an innovative seeking interface for XBMC</summary>  
+    <description lang="en">SubSeek allows you to search for a line, phrase or word, and quickly seek to matches in a video subtitle</description>
+  </extension>
+</addon>
